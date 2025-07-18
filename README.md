@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="https://giffiles.alphacoders.com/120/120251.gif" alt=" ">
 - 🌱 I’m currently learning **Web development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/akshay-kumar-2120a5257](https://www.linkedin.com/in/akshay-kumar-2120a5257)
